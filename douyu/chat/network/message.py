@@ -1,5 +1,10 @@
-
+# -*- coding: utf-8 -*-
+# @Auth:    fear
+# @Mail:    fear@1201.us
+# @File:    message.py
+# @Date:    2017-02-15
 from utils import deserialize, serialize
+
 
 class Message:
 

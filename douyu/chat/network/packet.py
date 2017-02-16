@@ -1,4 +1,8 @@
-
+# -*- coding: utf-8 -*-
+# @Auth:    fear
+# @Mail:    fear@1201.us
+# @File:    packet.py
+# @Date:    2017-02-15
 from struct import pack, unpack
 
 MESSAGE_TYPE_FROM_CLIENT = 689

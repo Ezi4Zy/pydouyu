@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Auth:    fear
+# @Mail:    fear@1201.us
+# @File:    utils.py
+# @Date:    2017-02-15
 
 
 def escape(value):

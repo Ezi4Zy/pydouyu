@@ -1,4 +1,8 @@
-
+# -*- coding: utf-8 -*-
+# @Auth:    fear
+# @Mail:    fear@1201.us
+# @File:    client.py
+# @Date:    2017-02-15
 import socket
 import time
 from packet import Packet
@@ -9,6 +13,7 @@ HOST = 'openbarrage.douyutv.com'
 PORT = 8601
 
 MAX_RECV_SIZE = 4096
+
 
 class Client:
 
